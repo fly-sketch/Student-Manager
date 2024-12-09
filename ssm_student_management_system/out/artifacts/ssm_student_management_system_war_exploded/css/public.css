@@ -1,0 +1,11 @@
+.top-nav {
+    height: 60px;
+}
+
+.non-top-nav {
+    height: calc(100% - 60px);
+}
+
+.operation-col {
+    width: 156px;
+}
